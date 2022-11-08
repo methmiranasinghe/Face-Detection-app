@@ -1,1 +1,1 @@
-# Face-Detection-app
+# Plagarism Checker-app

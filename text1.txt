@@ -1,0 +1,6 @@
+What is a CPU and where do you find it in a computer?
+CPU is short for Central Processing Unit. It is also known as a processor or microporcessor.
+
+It's one of the most important pieces of hardware in any digital computing system – if not the most important.
+
+Inside a CPU there are thousands of microscopic transistors, which are tiny switches that control the flow of electricity through the integrated circuits.

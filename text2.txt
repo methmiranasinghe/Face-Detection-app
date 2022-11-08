@@ -1,0 +1,24 @@
+Vendors 
+Healthcare providers often work with vendors without assessing the accompanying risk. For 
+example, if a hospital hires a cleaning company, its employees might gain access to computers. 
+While patient information should be locked in ways that the average employee cannot view, it 
+can be difficult to safeguard all points of access since cleaning Vulnerabilities 2 and maintenance 
+are integral to maintaining a healthy work environment. Unsecured mobile devices: Healthcare 
+facilities that allow mobile logins don’t always require the devices to meet security standards. 
+This leaves their networks vulnerable to malware and hackers since all of the organization’s 
+planning and security do not influence staff communication devices. This issue is compounded 
+once staff disposes of the equipment in an upgrade — network information or passwords might 
+still be accessible, making a natural access point for criminals. Unless the organization sets strict 
+guidelines or bans user devices altogether, there is little that employers can do
+Lost and stolen mobile devices
+In much the same way, lost or stolen devices represent an enormous risk. Any mobile device 
+used to access a facility’s network becomes a liability as soon as it is lost or stolen. Once it falls 
+into the wrong hands, the user can easily access the system using old or stored login data. Once a 
+criminal has access to the network, it can be challenging to detect their presence or reseal the 
+breach. Online medical devices: The security of online medical devices is often lacking, making 
+them easy targets for hackers. There was a time that tools such as infusion pumps only provided 
+information to the doctor and patient involved. However, as the Internet of Medical Things 
+(IoMT) continues to grow, these devices are designed to export the information to external 
+sources and otherwise interact with the world outside the doctor’s office. This data could be 
+intercepted or manipulated, creating a host of issues. Moreover, hackers could gain access to 
+manage most items connected to the network, including how the machines function
